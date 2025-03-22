@@ -1,6 +1,6 @@
 # GraphQL Router
 
-This project demonstrates a microserive pattern using graphql. It's a simple example of how to structure a GraphQL API with multiple resolvers
+This project demonstrates a microservice pattern using graphql. It's a simple example of how to structure a GraphQL API with multiple resolvers
 
 ## Prerequisites
 
